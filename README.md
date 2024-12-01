@@ -1,4 +1,4 @@
-# Lens Price Search Application
+# Price Search Application
 
 This is a desktop application developed using Python and Tkinter to search for lens prices based on various criteria such as company, brand, and specific lens attributes. It interacts with a SQLite database to retrieve and display lens price data in a user-friendly interface.
 
