@@ -20,7 +20,7 @@ This application requires the following Python libraries:
 ### Installation of Required Libraries
 Before running the application, ensure that the necessary libraries are installed using `pip`:
 ```bash
-pip install pillow
+pip install -r requirement.txt
 ```
 `tkinter` and `sqlite3` are typically included in standard Python distributions.
 
